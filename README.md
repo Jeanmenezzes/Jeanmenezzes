@@ -2,7 +2,7 @@
 # Jean M. Silva
 **Student** and **Developer Worker**.
 
-🔭 I’m currently working on full-stack development
+🔭 I’m currently working as full stack development
 
 🌱 I’m currently learning
 <div style="display:inline-block;marge:20px">
